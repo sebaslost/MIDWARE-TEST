@@ -1,0 +1,40 @@
+h1{
+  font-size: 200%;
+  font-weight: bold;
+  letter-spacing: 10px;
+  text-align: center;
+  text-shadow: black 6px 6px 8px;
+  text-transform: uppercase;
+}
+p {
+    font: small-caps 100%/200% serif;
+  }
+input:invalid {
+    border: 2px dashed red;
+  }
+  
+input:invalid:required {
+    background-image: linear-gradient(to right, pink, lightgreen);
+  }
+  
+input:valid {
+    border: 2px solid black;
+  }  
+.container{
+	margin:0 auto;
+	width:70%;
+}
+ 
+#progress{
+	width:100%;
+  background-color:rgba(221, 221, 221, 0.226);
+  border-radius: 1.5em;
+}
+ 
+#innerBar{
+	width:0%;
+	height:40px;
+  background-color:rgb(5, 139, 0);
+  border-radius: 1.5em;
+}
+ 
