@@ -1,5 +1,8 @@
 # MIDWARE-TEST
 TEST FOR MIDWARE CAREER
+
+
+
 -Explanation
 In this test three files were performed together with an attached image, html knowledge 
 was used for the test, css, and JavaScript, in which in the first part you can see the html.index and 
